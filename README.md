@@ -215,7 +215,7 @@ GROUP BY ds.SupplierName
 ORDER BY total_sales DESC;
 ```
 <p align="center">
-  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf1.png?raw=true" alt="Graf 1">
+  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf3.png?raw=true" alt="Graf 1">
   <br>
   <em>Graf 1</em>
 </p>
@@ -235,7 +235,7 @@ ORDER BY total_orders DESC
 LIMIT 5;
 ```
 <p align="center">
-  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf2.png?raw=true" alt="Graf 2">
+  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf4.png?raw=true" alt="Graf 2">
   <br>
   <em>Graf 2</em>
 </p>
@@ -255,7 +255,7 @@ GROUP BY dc.city
 ORDER BY total_orders DESC;
 ```
 <p align="center">
-  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf3.png?raw=true" alt="Graf 3">
+  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf5.png?raw=true" alt="Graf 3">
   <br>
   <em>Graf 3</em>
 </p>
@@ -273,7 +273,7 @@ GROUP BY year
 ORDER BY year;
 ```
 <p align="center">
-  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf4.png?raw=true" alt="Graf 4">
+  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf2.png?raw=true" alt="Graf 4">
   <br>
   <em>Graf 4</em>
 </p>
@@ -293,7 +293,7 @@ ORDER BY total_purchases DESC
 LIMIT 5;
 ```
 <p align="center">
-  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf5.png?raw=true" alt="Graf 5">
+  <img src="https://github.com/konnorksu/northwind_coyote/blob/main/grafy/graf1.png?raw=true" alt="Graf 5">
   <br>
   <em>Graf 5</em>
 </p>
